@@ -1,0 +1,225 @@
+{"customers":[{
+	"customer_id":"2021_100",
+	"first_name":"sergio",
+	"last_name":"rossi",
+	"age":29,
+	"order_id":[35,39,44]
+},
+{
+	"customer_id":"2021_110",
+	"first_name":"carla",
+	"last_name":"alfieri",
+	"age":31,
+	"order_id":[12,40]
+},
+{
+	"customer_id":"2021_111",
+	"first_name":"gerardo",
+	"last_name":"del prete",
+	"age":49,
+	"order_id":[8,28]
+},
+{
+	"customer_id":"2021_112",
+	"first_name":"carlo",
+	"last_name":"testa",
+	"age":72,
+	"order_id":[10,22,30,41]
+},
+{
+	"customer_id":"2021_154",
+	"first_name":"roberto",
+	"last_name":"pace",
+	"age":25,
+	"order_id":[43,54]
+},
+{
+	"customer_id":"2021_167",
+	"first_name":"rosa",
+	"last_name":"garofalo",
+	"age":45,
+	"order_id":52
+},
+{
+	"customer_id":"2021_171",
+	"first_name":"erminia",
+	"last_name":"caiazzo",
+	"age":29,
+	"order_id":[27,53]
+},
+{
+	"customer_id":"2021_173",
+	"first_name":"rosario",
+	"last_name":"gallo",
+	"age":63,
+	"order_id":[13,32,49]
+},
+{
+	"customer_id":"2021_184",
+	"first_name":"pasquale",
+	"last_name":"cirillo",
+	"age":51,
+	"order_id":11
+},
+{
+	"customer_id":"2021_195",
+	"first_name":"giovanni",
+	"last_name":"aversano",
+	"age":22,
+	"order_id":[14,15]
+},
+{
+	"customer_id":"2021_196",
+	"first_name":"nicola",
+	"last_name":"sirico",
+	"age":27,
+	"order_id":21
+},
+{
+	"customer_id":"2021_23",
+	"first_name":"alessandro",
+	"last_name":"reccia",
+	"age":31,
+	"order_id":1
+},
+{
+	"customer_id":"2021_31",
+	"first_name":"paola",
+	"last_name":"cristiano",
+	"age":67,
+	"order_id":[2,45,50]
+},
+{
+	"customer_id":"2021_35",
+	"first_name":"antonio",
+	"last_name":"martino",
+	"age":30,
+	"order_id":[7,17]
+},
+{
+	"customer_id":"2021_37",
+	"first_name":"fulvio",
+	"last_name":"capasso",
+	"age":48,
+	"order_id":[3,5,58]
+},
+{
+	"customer_id":"2021_42",
+	"first_name":"gennaro",
+	"last_name":"immobile",
+	"age":24,
+	"order_id":[4,16,42]
+},
+{
+	"customer_id":"2021_43",
+	"first_name":"alfonso",
+	"last_name":"leotta",
+	"age":36,
+	"order_id":[36,47]
+},
+{
+	"customer_id":"2021_72",
+	"first_name":"vincenzo",
+	"last_name":"de luca",
+	"age":34,
+	"order_id":[24,37]
+},
+{
+	"customer_id":"2021_75",
+	"first_name":"alessandro",
+	"last_name":"del piero",
+	"age":47,
+	"order_id":25
+},
+{
+	"customer_id":"2021_83",
+	"first_name":"diego",
+	"last_name":"auletta",
+	"age":23,
+	"order_id":[20,26]
+},
+{
+	"customer_id":"2021_84",
+	"first_name":"andrea",
+	"last_name":"colucci",
+	"age":41,
+	"order_id":[29,31,55]
+},
+{
+	"customer_id":"2021_96",
+	"first_name":"mario",
+	"last_name":"porta",
+	"age":33,
+	"order_id":57
+},
+{
+	"customer_id":"2022_1",
+	"first_name":"alberto",
+	"last_name":"abete",
+	"age":35,
+	"order_id":[6,34]
+},
+{
+	"customer_id":"2021_98",
+	"first_name":"claudio",
+	"last_name":"buono",
+	"age":40,
+	"order_id":48
+},
+{
+	"customer_id":"2022_23",
+	"first_name":"giuseppe",
+	"last_name":"carillo",
+	"age":28,
+	"order_id":9
+},
+{
+	"customer_id":"2022_32",
+	"first_name":"ciro",
+	"last_name":"cirillo",
+	"age":52,
+	"order_id":[18,23]
+},
+{
+	"customer_id":"2022_33",
+	"first_name":"angelo",
+	"last_name":"piccolo",
+	"age":36,
+	"order_id":19
+},
+{
+	"customer_id":"2022_45",
+	"first_name":"giovanni",
+	"last_name":"alterio",
+	"age":33,
+	"order_id":[33,59]
+},
+{
+	"customer_id":"2022_53",
+	"first_name":"antonella",
+	"last_name":"capuano",
+	"age":22,
+	"order_id":[38,46]
+},
+{
+	"customer_id":"2022_57",
+	"first_name":"salvatore",
+	"last_name":"argentiere",
+	"age":39,
+	"order_id":51
+},
+{
+	"customer_id":"2022_61",
+	"first_name":"rocco",
+	"last_name":"ferro",
+	"age":58,
+	"order_id":56
+},
+{
+	"customer_id":"2022_65",
+	"first_name":"giampiero",
+	"last_name":"cristiano",
+	"age":67,
+	"order_id":60
+}]
+}

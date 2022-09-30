@@ -1,0 +1,70 @@
+<store>
+	<product>
+		<name>"LG F4WV510SAE"</name>
+		<id_product>2022//1</id_product>
+		<price value="euro">599</price>
+		<type>household appliance</type>
+	</product>
+	<product>
+		<name>"Whirlpool MWP 337 SB"</name>
+		<id_product>2022//2</id_product>
+		<price value="euro">223</price>
+		<type>household appliance</type>
+	</product>
+	<product>
+		<name>"Hitachi 50HAK5351"</name>
+		<id_product>2022//3</id_product>
+		<price value="euro">349</price>
+		<type>television</type>
+	</product>
+	<product>
+		<name>"Samsung TV UE65AU7170"</name>
+		<id_product>2022//4</id_product>
+		<price value="euro">639</price>
+		<type>television</type>
+	</product>
+	<product>
+		<name>"Hotpoint HIC 3C41"</name>
+		<id_product>2022//5</id_product>
+		<price value="euro">499</price>
+		<type>household appliance</type>
+	</product>
+	<product>
+		<name>"Sony Ps5 825GB"</name>
+		<id_product>2022//6</id_product>
+		<price value="euro">790</price>
+		<type>game console</type>
+	</product>
+	<product>
+		<name>"Microsoft Xbox Series X"</name>
+		<id_product>2022//7</id_product>
+		<price value="euro">499</price>
+		<type>game console</type>
+	</product>
+	<product>
+		<name>"Nintendo Switch Oled"</name>
+		<id_product>2022//8</id_product>
+		<price value="euro">349</price>
+		<type>game console</type>
+	</product>
+	<product>
+		<name>"Apple iPhone 14 128GB"</name>
+		<id_product>2022//9</id_product>
+		<price value="euro">1029</price>
+		<type>smartphone</type>
+	</product>
+	<product>
+		<name>"Samsung Galaxy S22 Ultra 5G 256 GB"</name>
+		<id_product>2022//10</id_product>
+		<price value="euro">1047</price>
+		<type>smartphone</type>
+	</product>
+	<product>
+		<name>"Xiaomi 12 Pro 5G 256 GB"</name>
+		<id_product>2022//11</id_product>
+		<price value="euro">949</price>
+		<type>smartphone</type>
+	</product>
+<!-- insieme di tutti i prodotti in vendita -->
+</store>
+
